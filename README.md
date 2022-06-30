@@ -1,4 +1,3 @@
-# Projeto conhecimento adiquirido em aula!
+# Projeto Introdução ao HTML e CSS!
 
-# Colocando em prática tudo o que foi ensinado, estilizando uma página web simples. 
- 
+Colocando em prática os conhecimentos adiquirido em sala de aula, estilizando uma página web simples.
